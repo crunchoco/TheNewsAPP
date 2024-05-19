@@ -10,3 +10,4 @@ This is a simple sticky notes app developed using Kotlin. It allows users to cre
 - Delete existing sticky notes
 - Modify existing sticky notes
 - Search for specific sticky notes
+![Alt Text](https://github.com/crunchoco/TheNewsAPP/blob/master/HitPawOnline_198.gif?raw=true)
